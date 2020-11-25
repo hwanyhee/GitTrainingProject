@@ -7,6 +7,7 @@
 <title>index.jsp</title>
 </head>
 <body>
-    <h2>git 수업<h2>
+    <h2>git 수업</h2>
+    <h3>내용 추가합니다.</h3>
 </body>
 </html>
