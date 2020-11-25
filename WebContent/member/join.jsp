@@ -8,5 +8,7 @@
 </head>
 <body>
 	<a href="../index.jsp">메인으로</a>
+	ㄴ아힌ㅇㄹ/ㅏㅓ홀아ㅣ홀ㄴㅇ/ㅏㅣㅎ
+	ㄹ옿ㄴ읗.
 </body>
 </html>
